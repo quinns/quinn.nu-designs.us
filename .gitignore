@@ -1,0 +1,4 @@
+dc/cake/app/config/database.php
+dc/cake/app/tmp/*
+.DS_Store
+

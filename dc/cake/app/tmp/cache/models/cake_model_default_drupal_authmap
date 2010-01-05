@@ -1,0 +1,2 @@
+1262295279
+a:4:{s:3:"aid";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:10;s:3:"key";s:7:"primary";}s:3:"uid";a:4:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";s:1:"0";s:6:"length";i:11;}s:8:"authname";a:5:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:128;s:3:"key";s:6:"unique";}s:6:"module";a:4:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:128;}}

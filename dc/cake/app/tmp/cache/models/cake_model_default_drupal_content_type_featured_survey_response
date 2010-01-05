@@ -1,0 +1,2 @@
+1262295281
+a:5:{s:3:"vid";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";s:1:"0";s:6:"length";i:10;s:3:"key";s:7:"primary";}s:3:"nid";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";s:1:"0";s:6:"length";i:10;s:3:"key";s:5:"index";}s:15:"field_photo_fid";a:4:{s:4:"type";s:7:"integer";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:11;}s:16:"field_photo_list";a:4:{s:4:"type";s:7:"integer";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:4;}s:16:"field_photo_data";a:4:{s:4:"type";s:4:"text";s:4:"null";b:1;s:7:"default";N;s:6:"length";N;}}

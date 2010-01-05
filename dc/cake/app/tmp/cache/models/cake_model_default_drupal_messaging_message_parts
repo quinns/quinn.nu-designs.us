@@ -1,0 +1,2 @@
+1262295281
+a:5:{s:4:"type";a:5:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:100;s:3:"key";s:5:"index";}s:6:"method";a:5:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:50;s:3:"key";s:5:"index";}s:6:"msgkey";a:5:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:100;s:3:"key";s:5:"index";}s:6:"module";a:4:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:255;}s:7:"message";a:4:{s:4:"type";s:4:"text";s:4:"null";b:0;s:7:"default";N;s:6:"length";N;}}
